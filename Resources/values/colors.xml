@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2c3e50</color>
+    <color name="colorPrimaryDark">#1B3147</color>
+    <color name="colorAccent">#3498db</color>
+    <color name="splashbackground">#fff</color>
+    <color name="taxiWhite">#fff</color>
+    <color name="taxiPrimary">#1C4258</color>
+    <color name="taxiAccent">#EE861F</color>
+    <color name="taxiPrimaryDark">#102A38</color>
+    <color name="taxiAccentClick">#A25508</color>
+    <color name="taxiAsh">#e2e2e2</color>
+</resources>

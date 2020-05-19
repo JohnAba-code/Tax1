@@ -1,0 +1,34 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+  <style name="MyTheme.Splash" parent="Theme.AppCompat.Light.NoActionBar">
+    <item name="android:windowBackground">@drawable/splash</item>
+    <item name="android:windowNoTitle">True</item>
+    <item name="android:windowFullscreen">True</item>
+  </style>
+
+
+  <style name="taxiTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <item name="colorPrimary">@color/taxiPrimary</item>
+    <item name="colorPrimaryDark">@color/taxiPrimaryDark</item>
+    <item name="colorAccent">@color/taxiAccent</item>
+  </style>
+
+  <style name="taxiTheme.ActionBar.Transparent" parent="taxiTheme">
+    <item name="colorPrimary">@android:color/transparent</item>
+  </style>
+  
+  <style name="NavigationStyle" parent="Theme.AppCompat.Light.NoActionBar">
+    <item name="colorPrimary">@color/taxiAccent</item>
+    <item name="colorPrimaryDark">@color/taxiAccent</item>
+    <item name="colorAccent">@color/taxiAccent</item>
+  </style>
+
+</resources>
