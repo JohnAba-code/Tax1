@@ -17,12 +17,12 @@ to start buiding this app which is my first android development. The project was
 
 ### So far, Taxi has:
 
-A splash screen.
-Login XML designed layout, a C# activity file for the Login page.
-Registration XML designed layout, a C# activity file for the registration page.
-A menu XML designed layout.
-A main activity.
-Google map location services.
-Firebase database and authentication real time integration.
+* A splash screen.
+* Login XML designed layout, a C# activity file for the Login page.
+* Registration XML designed layout, a C# activity file for the registration page.
+* A menu XML designed layout.
+* A main activity.
+* Google map location services.
+* Firebase database and authentication real time integration.
 
 A more detailed tutorial will be written later.
