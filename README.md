@@ -27,6 +27,6 @@ to start buiding this app which is my first android development. The project was
 
 ### Screenshots
 * Login page
-![Login page](C:\Users\Lenovo\Desktop\Screenshot_20200514-161222_Taxi.jpg)
+![Login page](https://drive.google.com/drive/u/0/my-drive/Screenshot_20200514-161313_WhatsApp.jpg)
 
 A more detailed tutorial will be written later.
