@@ -27,6 +27,6 @@ to start buiding this app which is my first android development. The project was
 
 ### Screenshots
 * Login page
-![Login page](https://unsplash.com/photos/ieQ9E2stoj0)
+![Login page](Desktop/Screenshot_20200514-161313_WhatsApp)
 
 A more detailed tutorial will be written later.
