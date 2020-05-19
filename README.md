@@ -27,6 +27,6 @@ to start buiding this app which is my first android development. The project was
 
 ### Screenshots
 * Login page
-![Login page](drive.google.com/file/d/1CwHvDVEhitrqWh9Bo-UuscTf3qX5bZ1s/view?usp=sharing)
+![Login page](https://unsplash.com/photos/ieQ9E2stoj0)
 
 A more detailed tutorial will be written later.
