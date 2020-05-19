@@ -25,8 +25,43 @@ to start buiding this app which is my first android development. The project was
 * Google map location services.
 * Firebase database and authentication real time integration.
 
-### Screenshots
-* Login page
-![Login page](Desktop/Screenshot_20200514-161313_WhatsApp)
+### Installation Requirements
+
+Installing from source is easy, and needs the following:
+
+* A Java SE Development Kit (13 and above)
+* Visual Studio (Preferrably 2019 Commnunity edition)
+* Xamarin installed in Visual Studio
+* An Android phone (Preferrably 10.0 or newer)
+
+Inside Visual Studio, install the following NuGet packages
+
+* Xamarin.GooglePlayServices.Maps
+* Xamarin.GooglePlayServices.Location
+* Xamarin.GooglePlayServices.Base
+* Xamarin.Firebase.Database
+* Xamarin.Firebase.Auth
+* Xamarin.EssentialsXamarin.Android.Support.v4
+* Xamarin.Android.Support.Media.Compat
+* Xamarin.Android.Support.Design
+* Xamarin.Android.Support.CustomTabs
+* Xamarin.Android.Support.Core.Utils
+* Xamarin.Android.Support.Compat
+* Xamarin.Android.Support.Collections
+* Refractored.Controls.CircleImageView
+
+### Installation Process
+Firstly, On the GitHub repo
+
+- Click on Clone or Download
+- Click on Download Zip
+
+After the download
+
+- Unzip the folder
+- Open the project using Visual Studio (This can be done by clicking on Taxi.Sln file)
+- Connect your Android phone to your computer using a USB cable
+- In Visual Studio, click on your phones' name which should be showing in the top tab
+- Allow the application build and install on your phone (this should take about 3 minutes)
 
 A more detailed tutorial will be written later.
